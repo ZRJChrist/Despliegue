@@ -12,7 +12,7 @@ Tendremos de salida el codigo fuente de la pagina:
 
 ### Pagina profesordeinformatica.com
 
-     ```shell
+   ```shell
    curl https://profesordeinformatica.com
    ```
 Tendremos de salida el codigo fuente de la pagina:
