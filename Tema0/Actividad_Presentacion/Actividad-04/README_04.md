@@ -8,7 +8,7 @@
    ```
 Tendremos de salida el codigo fuente de la pagina:
 
-    ![Info de salida](Screenshot 2023-10-20 083555.png)
+![Info de salida](InfoSalida.png)
 
 ### Pagina profesordeinformatica.com
 
@@ -17,4 +17,4 @@ Tendremos de salida el codigo fuente de la pagina:
    ```
 Tendremos de salida el codigo fuente de la pagina:
 
-    ![Info de salida](Screenshot 2023-10-20 085108.png)
+![Info de salida](InfoSalida2.png)
