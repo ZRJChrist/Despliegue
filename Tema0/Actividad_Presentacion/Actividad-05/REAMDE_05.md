@@ -5,7 +5,7 @@ la pagina que aparecera al abrir el servidor web.
 
 ### Servidor de forma nativa
 
-    ![Codigo Pagina](/Tema0/Actividad_Presentacion/Actividad-05/CodigoPagina.png)
+    ![Codigo Pagina](Actividad-05/CodigoPagina.png)
 
 Abriremos una terminal y nos ubicaremos en la carpeta donde esta nuestra pagina.
 Una vez ahi ejecutamos el siguiente conmando:
@@ -17,7 +17,7 @@ Una vez ahi ejecutamos el siguiente conmando:
 
 Una vez inicado el servidor y habiendo entrado a la web(mediante la url de localhost:8000) tenderemos esta salida en la terminal:
     
-    ![Codigo Pagina](Tema0\Actividad_Presentacion\Actividad-05\CodigoSalida.png)
+    ![Codigo Pagina](/Actividad-05/CodigoSalida.png)
 
 ###  Simple HTTP Server Implementation in Python 3 
 
